@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Indice personal</title>
+    <style>
+        h1 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Política</h1>
+
+    <ul>
+        <li><a href="https://github.com/MoreNothing777/MoreNothing777.github.io">Página principal.</a></li>
+    </ul>
+</body>
+</html>
