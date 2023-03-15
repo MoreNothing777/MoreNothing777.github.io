@@ -1,0 +1,33 @@
+body {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    margin-top: 8%;
+    text-decoration: underline 5px;
+}
+
+img { 
+    height: 100%;
+    width: 100%;
+}
+
+.container_train {
+    display: grid;
+    grid-template-columns: repeat(3, 30%);
+    grid-template-rows: repeat(3, 30%);
+}
+
+.container_train2 {
+    display: grid;
+    grid-template-columns: repeat(3, 30%);
+    grid-template-rows: repeat(4, 25%);
+    grid-gap: 5%;
+    margin-bottom: 20%;
+}
+
